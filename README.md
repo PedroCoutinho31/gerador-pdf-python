@@ -27,19 +27,3 @@ pip install -r requirements.txt
 Execute:
 
 python main.py
-
-Depois no terminal:
-
-git add .
-git commit -m "Adicionando README"
-git push
-
-Remove o arquivo recibo.pdf do repositório.
-
-Arquivo gerado não deve ir pro GitHub.
-
-No terminal:
-
-git rm recibo.pdf
-git commit -m "Removendo arquivo gerado"
-git push
